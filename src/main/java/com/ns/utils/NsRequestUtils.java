@@ -18,14 +18,14 @@ import javax.crypto.spec.SecretKeySpec;
 import java.io.UnsupportedEncodingException;
 import java.net.URLEncoder;
 import java.util.*;
+
 /**
  * NS请求工具类
  *
- * @author zhangBaoShine
+ * @author zhangbaoshine
  * @version 2021-05-28
  */
 public class NsRequestUtils {
-
 
     /**
      * 发送请求并返回响应结果

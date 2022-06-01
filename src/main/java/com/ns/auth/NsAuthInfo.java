@@ -3,7 +3,7 @@ package com.ns.auth;
 /**
  * NS认证信息Vo
  *
- * @author zhangbs
+ * @author zhangbaoshine
  * @version 2021-05-28
  */
 public class NsAuthInfo {
